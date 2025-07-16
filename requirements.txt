@@ -1,0 +1,10 @@
+This project requires the following Python modules:
+
+a. numpy
+b. matplotlib
+c. pandas
+d.statsmodels
+e. scipy
+f. sklearn
+
+to install them just insert into a terminal "pip module_name" (without the quotations (: )
